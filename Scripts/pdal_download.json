@@ -1,0 +1,28 @@
+[
+    {
+        "type": "readers.ept",
+        "filename": "https://usgs-lidar-public.s3.amazonaws.com/USGS_LPC_CA_SoCal_Wildfires_B2_2018_LAS_2019/ept.json",
+        "bounds": "([-13178743.973190438, -13177023.735811515], [4171768.394932173, 4173243.982547547])",
+        "tag": "readdata"
+    },
+    {
+        "type": "filters.smrf"
+    },
+    {
+        "type": "filters.hag_nn"
+    },
+    {
+        "type": "filters.range",
+        "limits": "HeightAboveGround[10:]"
+    },
+    {
+        "type": "filters.range",
+        "limits": "Classification[1:1]",
+        "tag": "Classify"
+    },
+    {
+        "type": "writers.las",
+        "filename": "D:\\School\\Comp490\\ArGIS Project\\MyProject\\Data\\test2.las",
+        "extra_dims": "HeightAboveGround=double"
+    }
+]

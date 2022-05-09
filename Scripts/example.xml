@@ -1,0 +1,38 @@
+<xml version = "1.0" ?>
+<FEATURES_FORMAT_201707>
+    <HEADERINFO DefaultValue="0" NumFeatures="3072" ReplaceMethod="ALWAYS"/>
+    <FEATUREITEM FeatureType="Region">
+        <STRING_ID StringID = "1"/>
+        <ELEVATION Elev_m="1577">
+        <NUMPOINTS NumPoints = "4"/>
+        <POINT2D LatDeg = "35.07115577602006" LonDeg = "-118.38954788855662">
+        <POINT2D LatDeg = "35.07115577234579" LonDeg = "-118.38954756899763">
+        <POINT2D LatDeg = "35.07115574568456" LonDeg = "-118.38954713467568">
+        <POINT2D LatDeg = "35.07115577602006" LonDeg = "-118.38954734587678">
+    </FEATUREITREM>
+    <FEATUREITEM FeatureType="Region">
+        <STRING_ID StringID = "2"/>
+        <ELEVATION Elev_m="1577">
+        <NUMPOINTS NumPoints = "4"/>
+        <POINT2D LatDeg = "35.07115575474567" LonDeg = "-118.38954788258567">
+        <POINT2D LatDeg = "35.07115577235474" LonDeg = "-118.38954788234683">
+        <POINT2D LatDeg = "35.07115577602123" LonDeg = "-118.38954782346732">
+        <POINT2D LatDeg = "35.07115577602346" LonDeg = "-118.38954788812346">
+    </FEATUREITREM>
+    <FEATUREITEM FeatureType="Region">
+        <STRING_ID StringID = "3"/>
+        <ELEVATION Elev_m="1577">
+        <NUMPOINTS NumPoints = "4"/>
+        <POINT2D LatDeg = "35.07115577612345" LonDeg = "-118.38954788858068">
+        <POINT2D LatDeg = "35.07115577656793" LonDeg = "-118.38954788823521">
+        <POINT2D LatDeg = "35.07115577603465" LonDeg = "-118.38954788852346">
+        <POINT2D LatDeg = "35.07115577612361" LonDeg = "-118.38954788895612">
+    </FEATUREITREM>
+    <FEATUREITEM FeatureType="Region">
+        <STRING_ID StringID = "4"/>
+        <ELEVATION Elev_m="1577">
+        <NUMPOINTS NumPoints = "4"/>
+        <POINT2D LatDeg = "35.07115577605356" LonDeg = "-118.38954788855662">
+        <POINT2D LatDeg = "35.07115577234566" LonDeg = "-118.38954788855123">
+        <POINT2D LatDeg = "35.07115577602006" LonDeg = "-118.38954788897521">
+        <POINT2D LatDeg = "35.07115577601235" LonDeg = "-118.38954788852357">
