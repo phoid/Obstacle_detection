@@ -15,7 +15,5 @@ https://micmac.ensg.eu/index.php/Install_MicMac_Windows
 
 As long as your 3d object is LAS, it should run. So any software that can do that will suffice
 
-### Linked a locally hosted database. We realize this is locally hosted, but we included this as proof of concept and also easy way to set up a database for the algorithm. Be sure to install Python Flask
-
 ### To run server:
 python server.py in CMD/Terminal, then running Daniel's algorithm will send to the database
