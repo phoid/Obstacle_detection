@@ -1,11 +1,11 @@
 # comp491
 Senior Project Design: 
 
-  Daniel Monascal
-  Roy Chun
-  Alex Levin 
-  Jalal Kahn
-  Patrick Reynolds
+Daniel Monascal
+Roy Chun
+Alex Levin
+Jalal Kahn
+Patrick Reynolds
 
 ### To Run Daniel's thing:
 python create_database.py [las file] [xml file]
