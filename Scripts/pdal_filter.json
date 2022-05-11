@@ -1,0 +1,26 @@
+[
+    {
+        "type": "readers.las",
+        "filename": "test2.las"
+    },
+    {
+        "type": "filters.smrf"
+    },
+    {
+        "type": "filters.hag_nn"
+    },
+    {
+        "type": "filters.range",
+        "limits": "HeightAboveGround[10:]"
+    },
+    {
+        "type": "filters.range",
+        "limits": "Classification[1:1]",
+        "tag": "Classify"
+    },
+    {
+        "type": "writers.las",
+        "filename": "filtered_test.las",
+        "extra_dims": "HeightAboveGround=double"
+    }
+]
