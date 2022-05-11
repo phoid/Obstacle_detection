@@ -16,4 +16,5 @@ https://micmac.ensg.eu/index.php/Install_MicMac_Windows
 As long as your 3d object is LAS, it should run. So any software that can do that will suffice
 
 ### To run server:
-python server.py in CMD/Terminal, then running Daniel's algorithm will send to the database
+python server.py in CMD/Terminal
+Running Daniel's algorithm will send to the database, which is hosted on Alex's computer
