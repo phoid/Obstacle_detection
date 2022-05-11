@@ -1,5 +1,6 @@
 # comp491
-Senior Project Design
+Senior Project Design: 
+
   Daniel Monascal
   Roy Chun
   Alex Levin 
