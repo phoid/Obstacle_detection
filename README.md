@@ -22,5 +22,5 @@ As long as your 3d object is LAS, it should run. So any software that can do tha
 
 ### To run server:
 python server.py in CMD/Terminal
-Running Daniel's algorithm will send to the database, which is hosted on Alex's computer
+Running the algorithm would send to the database, which is was formerly hosted on Alex's computer
 Change IP address in the code to send to a different server
